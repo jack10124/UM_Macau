@@ -1,2 +1,2 @@
 # UM_Macau
-#https://2020.igem.org/Team:UM_Macau/Model
+Here is the model code for 2020igem 
